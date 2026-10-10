@@ -1,0 +1,100 @@
+\documentclass[11pt,a4paper,twoside,openany]{book}
+
+% Lingua
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+
+% Formato A4 per la stampa fronte-retro
+\usepackage[
+    a4paper,
+    inner=2.7cm,
+    outer=2.2cm,
+    top=2.3cm,
+    bottom=2.5cm,
+    bindingoffset=0.3cm
+]{geometry}
+
+% Immagini e didascalie
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{float}
+
+% Matematica e qualità tipografica
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{microtype}
+
+% Intestazioni e numeri di pagina
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\nouppercase{\leftmark}}
+\fancyhead[LO]{\nouppercase{\rightmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\fancypagestyle{plain}{
+    \fancyhf{}
+    \fancyfoot[C]{\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+}
+
+% Cartella delle immagini
+\graphicspath{{immagini/}}
+
+% Collegamenti nell'indice
+\usepackage[
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue
+]{hyperref}
+
+% Dati del documento
+\newcommand{\NomeCorso}{Fisiologia Speciale}
+\newcommand{\AnnoAccademico}{2026/2027}
+\newcommand{\Universita}{Roma 3}
+
+\hypersetup{
+    pdftitle={Appunti di \NomeCorso},
+    pdfsubject={Appunti universitari}
+}
+
+\begin{document}
+
+% COPERTINA
+\begin{titlepage}
+    \thispagestyle{empty}
+    \centering
+
+    \vspace*{3cm}
+
+    {\Large \Universita\par}
+
+    \vspace{3cm}
+
+    {\Huge\bfseries \NomeCorso\par}
+
+    \vspace{0.7cm}
+
+    {\Large Appunti delle lezioni\par}
+
+    \vfill
+
+    {\large Anno accademico \AnnoAccademico\par}
+
+    \vspace*{2cm}
+\end{titlepage}
+
+% INDICE
+\frontmatter
+\tableofcontents
+
+% LEZIONI
+\mainmatter
+
+\input{lezioni/01}
+
+% Aggiungi le lezioni successive qui
+
+\end{document}
