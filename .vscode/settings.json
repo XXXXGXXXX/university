@@ -2,22 +2,22 @@
     "latex-workshop.latex.outDir": "%DIR%/.build",
     "latex-workshop.latex.tools": [
         {
-            "name": "pdflatex",
-            "command": "pdflatex",
+            "name": "pdflatex in .build named by folder",
+            "command": "powershell",
             "args": [
-                "-synctex=1",
-                "-interaction=nonstopmode",
-                "-file-line-error",
-                "-output-directory=%OUTDIR%",
-                "%DOC%"
+                "-NoProfile",
+                "-ExecutionPolicy",
+                "Bypass",
+                "-Command",
+                "Set-Location -LiteralPath '%DIR%'; $out = '%OUTDIR%'; $job = Split-Path -Leaf '%DIR%'; New-Item -ItemType Directory -Force -Path $out | Out-Null; & pdflatex -synctex=1 -interaction=nonstopmode -file-line-error \"-output-directory=$out\" \"-jobname=$job\" '%DOC%'; exit $LASTEXITCODE"
             ],
             "env": {}
         }
     ],
     "latex-workshop.latex.recipes": [
         {
-            "name": "pdflatex in .build",
-            "tools": ["pdflatex"]
+            "name": "pdflatex in .build named by folder",
+            "tools": ["pdflatex in .build named by folder"]
         }
     ],
     "latex-workshop.latex.autoBuild.run": "onSave",
