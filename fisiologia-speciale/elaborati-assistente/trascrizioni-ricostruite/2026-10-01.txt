@@ -1,0 +1,79 @@
+Lezione del 2026-10-01 — trascrizione ricostruita unificata.
+Parti incluse, in ordine: 2026-10-01_1, 2026-10-01_2, 2026-10-01_3, 2026-10-01_4, 2026-10-01_5.
+Fonti grezze: ../trascarizioni/2026-10-01_1.txt, ../trascarizioni/2026-10-01_2.txt, ../trascarizioni/2026-10-01_3.txt, ../trascarizioni/2026-10-01_4.txt e ../trascarizioni/2026-10-01_5.txt.
+Le registrazioni corrispondenti in ../registrazioni/ sono risorse dell'utente, non fonti consultate dall'agent.
+Le parti 1–5 sono disponibili. Alcuni termini e passaggi delle fonti grezze restano incerti e sono segnalati nelle rispettive trascrizioni.
+
+=== Parte 1 — ambiente, sistema nervoso e cellule nervose ===
+
+Il corso si propone di studiare il sistema nervoso e la regolazione neuroendocrina. In fisiologia si considerano la struttura, la funzione e l'integrazione delle funzioni. Come punto di riferimento dobbiamo mantenere l'ambiente, distinguendo l'ambiente esterno dall'ambiente interno. Quest'ultimo comprende anche gli spazi extracellulari esterni agli organi [formulazione originale incerta].
+
+È importante distinguere tra sensazione e percezione. La sensazione riguarda ciò che viene rilevato attraverso i sensi e i recettori; la percezione comporta l'elaborazione centrale delle informazioni. I recettori possono corrispondere a organi di senso, come occhi, orecchie e lingua, a proteine organizzate sulla membrana cellulare oppure a singole cellule. Essi sono collegati, attraverso vie di comunicazione specifiche, a centri di elaborazione. Il sistema nervoso possiede diversi centri di integrazione organizzati gerarchicamente; attraverso ulteriori vie comunica la risposta.
+
+La risposta contribuisce al mantenimento dell'omeostasi e delle condizioni di salute. Il docente precisa che non si deve intendere la fisiologia in senso finalistico; richiama però la fitness collettiva e, in un passaggio poco chiaro, la relazione con la riproduzione [nesso non ricostruibile con certezza].
+
+Il sistema nervoso si trova all'interfaccia tra ambiente esterno e ambiente interno. Interagire con il mondo permette apprendimento e memoria. Questa interazione si realizza tramite percezione sensoriale e motricità: la sensazione diventa percezione e l'organismo produce una risposta motoria. L'esempio della lezione e della stanchezza è pronunciato in modo poco intelligibile; il riferimento generale è alla percezione di condizioni proprie e alla risposta dell'organismo.
+
+L'interazione avviene secondo stati di coscienza differenti. Il sonno non corrisponde allo spegnimento del sistema nervoso: durante il sonno il sistema continua a ricevere informazioni, comprese quelle provenienti dai propriocettori. Il docente richiama anche emozioni e comportamento, con la rabbia come esempio di risposta che può concorrere alla difesa del territorio, della prole o del partner. Il rapporto tra mente, cervello e anima viene esplicitamente lasciato fuori dagli obiettivi fisiologici del corso.
+
+Per comprendere il sistema nervoso si adotterà un approccio riduzionistico, partendo da unità e meccanismi più semplici per arrivare ai livelli di integrazione. La rete nervosa è costituita da neuroni che operano in parallelo. I neuroni si possono classificare in base alla morfologia, alla funzione e al neurotrasmettitore utilizzato. Sono menzionati neuroni bipolari e multipolari, neuroni sensoriali, motoneuroni e interneuroni, nonché neuroni colinergici, GABAergici, serotoninergici, istaminergici e glutammatergici. Alcuni esempi e termini della classificazione sono corrotti nella fonte e non sono ricostruibili.
+
+Il sistema nervoso comprende anche cellule gliali. Sono citati astrociti, oligodendrociti, cellule di Schwann e microglia, ma la spiegazione dei tipi cellulari è interrotta e in parte non comprensibile. La trascrizione automatica riporta un confronto numerico tra glia e neuroni con un valore ambiguo; non viene corretto per supposizione.
+
+=== Parte 2 — potenziale di membrana e canali ionici ===
+
+Un segnale importante del sistema nervoso è il potenziale d'azione. Il docente lo definisce come la registrazione della variazione del potenziale di membrana in funzione del tempo. Richiama i potenziali di equilibrio degli ioni e i circuiti elettrici equivalenti della membrana. Il nome dell'equazione menzionata in questo passaggio non è comprensibile nella trascrizione.
+
+Il potenziale di membrana è una caratteristica di tutte le cellule. Le risposte passive dipendono dalle proprietà capacitive della membrana e dalle correnti che la attraversano; le risposte attive sono associate ai tessuti nervoso e muscolare [il terzo tessuto menzionato non è distinguibile con certezza]. Il potenziale di membrana dipende dalle concentrazioni ioniche, dalla permeabilità relativa della membrana ai diversi ioni, dalla pompa sodio-potassio e dalla presenza intracellulare di proteine cariche non diffusibili.
+
+Il potenziale d'azione si genera nella regione iniziale dell'assone. In tale regione convergono correnti ioniche associate ai fenomeni di sommazione spaziale e temporale delle risposte sinaptiche. In base alla legge di Ohm, le correnti producono variazioni del potenziale di membrana; queste possono modificare la conduttanza attraverso l'apertura dei canali ionici. Al raggiungimento della soglia, la corrente entrante di sodio contribuisce all'innesco del potenziale d'azione. Il valore della soglia è trascritto in modo ambiguo e non viene riportato come dato certo.
+
+Il potenziale d'azione si inserisce nell'attività fisiologica di una membrana sulla quale convergono numerose sinapsi. La sommazione delle correnti sinaptiche determina le variazioni del potenziale che possono portare all'innesco del potenziale d'azione. Il docente invita a ripassare la fisiologia generale del potenziale di membrana e delle correnti.
+
+I canali ionici sono proteine integrali di membrana che consentono il passaggio selettivo di ioni, altrimenti ostacolato dal doppio strato lipidico. Il passaggio avviene rapidamente e genera una corrente che modifica il potenziale di membrana. Il repertorio dei canali varia tra i diversi tipi cellulari; non tutte le cellule, neppure quelle nervose, esprimono lo stesso insieme di canali.
+
+I canali presentano un meccanismo di apertura e chiusura, detto gating. Sono citati canali regolati dal voltaggio, da ligandi e da stimoli meccanici. Un'altra proprietà fondamentale è la selettività: ciascun canale favorisce il passaggio di determinati ioni. La trascrizione interrompe qui la spiegazione del filtro di selettività; i dettagli della metafora enzimatica non sono ricostruibili con sicurezza.
+
+La parte termina mentre il docente introduce registrazioni elettrofisiologiche del singolo canale. Il seguito prosegue nella parte 3.
+
+=== Parte 3 — gating, refrattarietà e sistemi di neurotrasmettitori ===
+
+Il docente riprende i canali voltaggio-dipendenti e descrive un modello con quattro sensori. Il canale si apre quando tutti i sensori hanno compiuto il cambiamento conformazionale; se solo una parte si sposta, il canale resta chiuso. Poiché gli eventi avvengono su molte proteine e non necessariamente nello stesso momento, l'apertura osservata della popolazione è graduale e statistica. Il tempo necessario all'apertura e l'inattivazione sono richiamati in relazione ai canali del sodio.
+
+Il periodo refrattario è il tempo durante il quale una cellula eccitabile non può rispondere a un nuovo stimolo, oppure può farlo soltanto in risposta a uno stimolo più intenso. Si distingue un periodo refrattario assoluto, in cui la cellula è insensibile, e uno relativo, in cui occorre uno stimolo maggiore. Il docente lo collega alla disponibilità dei canali, che possono trovarsi nello stato chiuso, aperto o inattivato. Durante il recupero dall'inattivazione, solo una parte della popolazione torna disponibile; la risposta a un secondo stimolo dipende quindi dal tempo trascorso. I valori numerici esemplificativi della trascrizione sono confusi.
+
+Differenze tra canali nel potenziale di mezza attivazione e nella pendenza delle curve di attivazione contribuiscono a differenziare la risposta dei neuroni. Il docente paragona le diverse modalità di scarica a diverse cadenze regionali: il messaggio può essere riconoscibile pur variando la modalità con cui è espresso. Il dettaglio della codifica neuronale viene rimandato a lezioni successive.
+
+Per i canali regolati da ligando, la probabilità di apertura dipende dalla concentrazione del ligando e dalla stechiometria dell'interazione; vengono menzionati rapporti di legame diversi. La corrente che attraversa un singolo canale dipende dalle proprietà del canale e dalle condizioni ioniche ai due lati della membrana. Il docente richiama la legge di Ohm e il ruolo della membrana come condensatore.
+
+Il passaggio degli ioni attraverso il poro comporta la perdita del loro guscio di idratazione. La struttura interna del canale, comprese le catene laterali degli amminoacidi, contribuisce a selettività e permeazione. Tossine e farmaci possono modificare le proprietà dei canali; il docente cita anche l'importanza dell'azione transitoria di alcuni anestetici. La frase che specifica i meccanismi e i bersagli non è intelligibile.
+
+La varietà dei canali è ampia: la trascrizione riporta circa 400 geni per canali ionici su un totale di circa 20.000 geni, ma i numeri non sono verificati. Viene presentato il canale «funny» (If), associato alle cellule pacemaker cardiache e alla regolazione della frequenza cardiaca. Il nome e la localizzazione sono chiari; il resto dell'esempio è interrotto da commenti in aula.
+
+I canali possono essere classificati in famiglie, tra cui quelle dei canali del sodio, del calcio e del potassio; ciascuna famiglia comprende tipi con proprietà differenti. Seguono esempi di neurotrasmettitori e dei relativi recettori. I recettori postsinaptici possono essere ionotropici, cioè canali, o metabotropici, che attivano una cascata di segnalazione e possono modulare i canali. Il docente usa la modulazione del canale If da parte delle catecolamine come esempio: l'aumento della velocità di apertura è collegato all'aumento della frequenza cardiaca.
+
+La lezione introduce i sistemi diffusi di neurotrasmettitori, formati da circuiti di neuroni che utilizzano lo stesso trasmettitore e partecipano a funzioni specifiche. È descritto il sistema colinergico: sono menzionati gruppi neuronali del prosencefalo basale e del ponte e proiezioni verso la corteccia e altre regioni. Le specifiche denominazioni anatomiche e alcune destinazioni risultano corrotte e non sono ricostruibili.
+
+=== Parte 4 — recettori dell'acetilcolina ===
+
+Il docente distingue i recettori dell'acetilcolina in recettori nicotinici, che sono ionotropici, e recettori muscarinici, che sono metabotropici. I nomi sono collegati alle sostanze nicotina e muscarina. La muscarina viene descritta come componente tossica dell'Amanita muscaria, il fungo dal cappello rosso con macchie bianche. Il docente aggiunge che la farmacologia approfondirà questi recettori. Seguono brevi scambi con la classe e un'interruzione tecnica.
+
+=== Parte 5 — altri neurotrasmettitori ===
+
+Il docente prosegue la rassegna dei neurotrasmettitori. Le ammine biogene comprendono dopamina, adrenalina, istamina, serotonina e noradrenalina. L'istamina è menzionata in relazione ai mastociti e alle reazioni allergiche; si osserva che esistono anche neuroni che utilizzano istamina e cellule postsinaptiche con relativi recettori. Il rapporto tra sistema immunitario e sistema nervoso viene riconosciuto, ma non approfondito.
+
+La dopamina deriva dalla tirosina. Il sistema dopaminergico diffuso comprende la substantia nigra e l'area tegmentale ventrale; vengono citati anche il sistema limbico e il nucleo accumbens. La degenerazione dei neuroni della substantia nigra è collegata al Parkinson e ai disturbi motori. Il docente ricorda inoltre che la dopamina regola il rilascio di prolattina e menziona il suo coinvolgimento nei circuiti di ricompensa. La denominazione di una terza regione anatomica nella trascrizione è incerta.
+
+Adrenalina e noradrenalina derivano dalla dopamina. Sono neurotrasmettitori del sistema nervoso periferico e possono essere rilasciate anche dalla midollare del surrene. Il sistema noradrenergico è associato al locus coeruleus, al talamo e al sistema limbico; la trascrizione non consente di ricostruire tutte le regioni elencate. Il docente collega questo sistema alla regolazione della soglia sonno-veglia e ricorda i recettori adrenergici alfa e beta, di tipo metabotropico. I beta-bloccanti sono citati come esempio farmacologico di antagonismo dei recettori adrenergici e di riduzione della frequenza cardiaca.
+
+La serotonina deriva dal triptofano. Il docente ne menziona la relazione con la melatonina nell'epifisi e precisa che la serotonina prodotta nel cervello è sintetizzata localmente, poiché non attraversa la barriera ematoencefalica. Il sistema serotoninergico origina dai nuclei del rafe e proietta verso diverse regioni, incluso il midollo spinale. È associato alla regolazione del comportamento alimentare e sessuale e ai circuiti della ricompensa. L'esempio alimentare pronunciato dal docente non è sufficientemente chiaro per ricostruire il nome dell'alimento. I recettori serotoninergici possono essere ionotropici o metabotropici.
+
+Tra i neurotrasmettitori amminoacidici sono citati glutammato, acido gamma-amminobutirrico (GABA) e glicina. Il glutammato è presentato come principale neurotrasmettitore eccitatorio, ma un eccesso può provocare eccitotossicità. Si menzionano tre recettori ionotropici: AMPA, kainato e NMDA. La trascrizione attribuisce maggiore affinità a NMDA rispetto ad AMPA e kainato. Il canale NMDA è descritto come bloccato dal magnesio a potenziali di riposo e permeabile soprattutto al calcio, oltre che ad altri ioni. L'attivazione dei recettori AMPA depolarizza la membrana; la depolarizzazione rimuove il blocco del magnesio e consente l'attivazione di NMDA da parte del glutammato. Il docente descrive quindi NMDA come dipendente sia dal ligando sia dal voltaggio.
+
+Il glutammato agisce anche su recettori metabotropici, alcuni eccitatori e altri inibitori. Viene citato il recettore mGluR6 in relazione ai circuiti retinici. L'eccesso di calcio è collegato all'attivazione di processi dannosi per la cellula, inclusi enzimi quali fosfolipasi, endonucleasi e proteasi. Gli astrociti partecipano alla rimozione del glutammato e alla protezione dall'eccitotossicità. Alcune spiegazioni molecolari del passaggio sono disturbate dal rumore e non sono state ricostruite.
+
+Il GABA è presentato come principale neurotrasmettitore inibitorio del sistema nervoso centrale. I recettori GABA-A sono canali per il cloro; l'ingresso di cloro viene associato all'iperpolarizzazione. I recettori metabotropici GABA-B possono favorire l'apertura di canali del potassio; l'uscita di potassio viene anch'essa collegata all'iperpolarizzazione.
+
+L'ATP viene citato nella trasduzione del gusto: le cellule gustative lo rilasciano e attivano recettori ionotropici o metabotropici. Sono menzionati anche peptidi oppioidi endogeni, tra cui endorfine ed encefaline, altri piccoli peptidi e il loro possibile contributo all'asse intestino-cervello. La trascrizione non consente di identificare con sicurezza tutti i peptidi elencati. Infine, il docente cita i gas come possibili neurotrasmettitori, menzionando ossido nitrico e acido solfidrico, e richiama gli endocannabinoidi.
+
+In chiusura si ricorda che la lezione contiene domande d'esame e che è importante ripassare potenziale di membrana, sinapsi, potenziamenti e correnti. L'ultima frase è in parte incomprensibile.

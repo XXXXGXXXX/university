@@ -1,0 +1,18 @@
+Lezione del 2026-10-01, parte 2.
+Fonte: ../trascarizioni/2026-10-01_2.txt.
+Registrazione corrispondente: ../registrazioni/2026-10-01_2.mp3 (risorsa dell'utente, non consultata dall'agent).
+Ricostruzione basata sulla trascrizione grezza; i passaggi non recuperabili sono indicati tra parentesi quadre.
+
+Un segnale importante del sistema nervoso è il potenziale d'azione. Il docente lo definisce come la registrazione della variazione del potenziale di membrana in funzione del tempo. Richiama i potenziali di equilibrio degli ioni e i circuiti elettrici equivalenti della membrana. Il nome dell'equazione menzionata in questo passaggio non è comprensibile nella trascrizione.
+
+Il potenziale di membrana è una caratteristica di tutte le cellule. Le risposte passive dipendono dalle proprietà capacitive della membrana e dalle correnti che la attraversano; le risposte attive sono associate ai tessuti nervoso e muscolare [il terzo tessuto menzionato non è distinguibile con certezza]. Il potenziale di membrana dipende dalle concentrazioni ioniche, dalla permeabilità relativa della membrana ai diversi ioni, dalla pompa sodio-potassio e dalla presenza intracellulare di proteine cariche non diffusibili.
+
+Il potenziale d'azione si genera nella regione iniziale dell'assone. In tale regione convergono correnti ioniche associate ai fenomeni di sommazione spaziale e temporale delle risposte sinaptiche. In base alla legge di Ohm, le correnti producono variazioni del potenziale di membrana; queste possono modificare la conduttanza attraverso l'apertura dei canali ionici. Al raggiungimento della soglia, la corrente entrante di sodio contribuisce all'innesco del potenziale d'azione. Il valore della soglia è trascritto in modo ambiguo e non viene riportato come dato certo.
+
+Il potenziale d'azione si inserisce nell'attività fisiologica di una membrana sulla quale convergono numerose sinapsi. La sommazione delle correnti sinaptiche determina le variazioni del potenziale che possono portare all'innesco del potenziale d'azione. Il docente invita a ripassare la fisiologia generale del potenziale di membrana e delle correnti.
+
+I canali ionici sono proteine integrali di membrana che consentono il passaggio selettivo di ioni, altrimenti ostacolato dal doppio strato lipidico. Il passaggio avviene rapidamente e genera una corrente che modifica il potenziale di membrana. Il repertorio dei canali varia tra i diversi tipi cellulari; non tutte le cellule, neppure quelle nervose, esprimono lo stesso insieme di canali.
+
+I canali presentano un meccanismo di apertura e chiusura, detto gating. Sono citati canali regolati dal voltaggio, da ligandi e da stimoli meccanici. Un'altra proprietà fondamentale è la selettività: ciascun canale favorisce il passaggio di determinati ioni. La trascrizione interrompe qui la spiegazione del filtro di selettività; i dettagli della metafora enzimatica non sono ricostruibili con sicurezza.
+
+La parte termina mentre il docente introduce registrazioni elettrofisiologiche del singolo canale. Il seguito prosegue nella parte 3.
