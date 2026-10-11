@@ -1,0 +1,1 @@
+Prima di iniziare qualsiasi attività, leggi e segui le istruzioni contenute nel file AGENT.md nella root del repository. Consideralo la fonte autorevole per tutte le regole e le procedure specifiche del progetto. Non dare per scontato che il suo contenuto sia già presente nel contesto della chat.
